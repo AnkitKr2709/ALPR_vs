@@ -1,3 +1,6 @@
 # ALPR_vs
 This was our dip project.
-requirements: opencv-python, tensorflow
+
+Requirements: opencv-python, tensorflow
+
+Video link: https://youtu.be/joJjq__PFnE
